@@ -13,5 +13,9 @@ public class Aprendizado {
 		
 		System.out.println("Igor nasceu em "+ano+" ou seja, Igor tem "+idade+" anos.");
 		
+		double salario = 3.756;
+		
+		System.out.println("O salário de Igor é de R$"+salario+" reais.");
+		System.out.println("Igor pretende ganhar muito mais que RS"+salario+" trabalhando com desenvolvimento em Java!");
 	}
 }
